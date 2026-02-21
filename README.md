@@ -80,7 +80,7 @@ I'm a **Computer Science student** and passionate software developer who builds 
 
 <div align="center">
   
-```javascript
+
 const kevin = {
     frontend: ['React', 'Angular', 'HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
     backend: ['Node.js', 'Python', 'PHP', 'Express.js', 'Django', 'Flask'],
@@ -169,4 +169,4 @@ https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&log
 <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=masangakevin256&color=2E97F7&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" /> <br> <br> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> <br> <br>
 <b>💡 "Building solutions from the ground up, one line of code at a time."</b>
 
-<br> <br> <img src="https://raw.githubusercontent.com/masangakevin256/masangakevin256/output/snake.svg" alt="Snake animation" /> </div> ```
+<br> <br> <img src="https://raw.githubusercontent.com/masangakevin256/masangakevin256/output/snake.svg" alt="Snake animation" /> </div> 
