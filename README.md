@@ -1,114 +1,132 @@
-<td align="center" width="220">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/>
-<br><b>Backend Systems</b>
-<br><small>APIs, Databases, Architecture</small>
-</td>
+# 👋 Hi, I'm Masanga Kevin
 
-<td align="center" width="220">
-<img src="https://techstack-generator.vercel.app/figma-icon.svg" width="55"/>
-<br><b>Design Strategy</b>
-<br><small>Research, Wireframing, Prototyping</small>
-</td>
-</tr>
-</table>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=700&size=35&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=520&lines=Masanga+Kevin;UI%2FUX+Designer;Full-Stack+Developer;Backend+%26+Systems+Engineer;Crafting+Digital+Experiences)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Skills & Expertise**
+## 🔗 Connect With Me
 
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=2E97F7)](https://masangakevin.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=2E97F7)](https://www.linkedin.com/in/kevin-masanga-ba3808321/)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black&color=2E97F7)](your-youtube-link)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=2E97F7)](mailto:your-email@example.com)  
 
-### Frontend & Design
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## 🐍 GitHub Snake & Contribution Grid
 
-### Low-Level & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/assembly-%23FFD700.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-</div>
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)  
 
-<br>
+---
 
-```javascript
-const kevin = {
-    role: "UI/UX Designer & Full-Stack Developer",
-    
-    design: ['UI/UX Design', 'Figma', 'Prototyping', 'Design Strategy', 'User Research'],
-    frontend: ['React', 'TypeScript', 'CSS/Animations', 'Mobile-First Design'],
-    backend: ['Node.js', 'Express.js', 'REST APIs', 'Python'],
-    database: ['MySQL', 'MongoDB', 'Supabase'],
-    lowLevel: ['C', 'Assembly'],
-    tools: ['Git', 'Linux', 'Postman', 'Figma', 'Adobe XD'],
-    
-    philosophy: "I build experiences, not just interfaces — starting with empathy and ending with elegance."
-};
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Featured Projects
-🏥 HealthTrack Dashboard - A comprehensive health monitoring dashboard with real-time vitals tracking and data visualization.
+## 👨‍💻 About Me
 
-🛒 E-Commerce Platform - Full-stack shopping platform with seamless checkout flow and admin analytics panel.
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-📱 Jali Connect App - Mental health support mobile app connecting users with licensed counselors in real time.
+I'm **Masanga Kevin** — a UI/UX Designer, Front-End & Back-End Developer transforming ideas into functional digital products.  
 
-🎨 Portfolio Design System - A comprehensive design system with reusable components, tokens, and interaction patterns.
+Based in **Kisii, Kenya**, I combine design aesthetics with full-stack engineering to build experiences people love.  
 
-🔍 See all projects on my portfolio
+- 🎯 **3+ Years** of professional design & development experience  
+- 🚀 **40+ Projects** completed for **20+ Happy Clients**  
+- 🔭 Currently building production-style **School & Hospital Management Systems**  
+- 🌱 Learning **Cloud Architecture, DevOps & scalable backend design**  
+- 👯 Open to collaborating on **serious real-world or open-source projects**  
+- 💬 Ask me about **UI/UX design, Node.js backends, or system architecture**  
+- ⚡ Fun fact: I design interfaces and write Assembly — rare combo 😄  
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Latest YouTube Videos
-▶️ Building a School Management System from Scratch
+**👉 Explore my portfolio:** [masangakevin.vercel.app](https://masangakevin.vercel.app)  
 
-▶️ Understanding Pointers in C - Deep Dive
+---
 
-▶️ JWT Authentication Explained with Examples
+## 🛠 What I Do
 
-▶️ Hospital Management System Architecture
+| UI/UX Design | Web Development | Backend Systems | Design Strategy |
+|-------------|----------------|----------------|----------------|
+| <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55"/> Figma, Prototyping, Mobile-First | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55"/> React, TypeScript, Node.js | <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/> APIs, Databases, Architecture | <img src="https://techstack-generator.vercel.app/figma-icon.svg" width="55"/> Research, Wireframing, Prototyping |
 
-▶️ UI/UX Design Principles for Developers
+---
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> GitHub Stats
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=masangakevin256&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masangakevin256&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+## 💻 Skills & Expertise
 
+**Frontend & Design**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
+**Backend & Database**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=masangakevin256&theme=github-dark-blue&hide_border=true&background=0D1117" />
+**Low-Level & Tools**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![Assembly](https://img.shields.io/badge/assembly-%23FFD700.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
 
+---
 
+## 🚀 Featured Projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=masangakevin256&theme=onedark&no-frame=true&row=1&column=7" />
-</div>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Activity Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masangakevin256&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%"/>
-</div>
+**🏥 HealthTrack Dashboard**  
+A comprehensive health monitoring dashboard with real-time vitals tracking and data visualization.  
 
-<div align="center">
+**🛒 E-Commerce Platform**  
+Full-stack shopping platform with seamless checkout flow and admin analytics panel.  
 
-<img src="https://komarev.com/ghpvc/?username=masangakevin256&color=2E97F7&style=flat-square" alt="Profile Views"/>
+**📱 Jali Connect App**  
+Mental health support mobile app connecting users with licensed counselors in real time.  
 
+**🎨 Portfolio Design System**  
+A comprehensive design system with reusable components, tokens, and interaction patterns.  
 
+**🔍 See all projects on my [portfolio](https://masangakevin.vercel.app)**  
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational Quote"/>
+---
 
+## 📺 Latest YouTube Videos
 
+- [Building a School Management System from Scratch](https://youtube.com/watch?v=example1)  
+- [Understanding Pointers in C - Deep Dive](https://youtube.com/watch?v=example2)  
+- [JWT Authentication Explained with Examples](https://youtube.com/watch?v=example3)  
+- [Hospital Management System Architecture](https://youtube.com/watch?v=example4)  
+- [UI/UX Design Principles for Developers](https://youtube.com/watch?v=example5)  
 
-<b>💡 “Crafting digital experiences that inspire — from pixels to databases.”</b>
+---
 
+## 📊 GitHub Stats
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=masangakevin256&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />  
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masangakevin256&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />  
 
-<img src="https://raw.githubusercontent.com/masangakevin256/masangakevin256/output/snake.svg" alt="Snake Animation" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=masangakevin256&theme=github-dark-blue&hide_border=true&background=0D1117" />  
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=masangakevin256&theme=onedark&no-frame=true&row=1&column=7" />  
+
+---
+
+## 🐍 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=masangakevin256&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" />
+
+---
+
+## 💡 Quotes & Fun
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>  
+
+**“Crafting digital experiences that inspire — from pixels to databases.”**  
+
+<img src="https://raw.githubusercontent.com/masangakevin256/masangakevin256/output/snake.svg" />
