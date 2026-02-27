@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=700&size=35&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=520&lines=Masanga+Kevin;Full-Stack+Developer;Backend+%26+Systems+Engineer;UI%2FUX+Designer;Building+Real+World+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=700&size=35&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=520&lines=Masanga+Kevin;UI%2FUX+Designer;Full-Stack+Developer;Backend+%26+Systems+Engineer;Crafting+Digital+Experiences" />
 </a>
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=2E97F7)](https://masangakevinportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=2E97F7)](https://masangakevin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=2E97F7)](https://www.linkedin.com/in/kevin-masanga-ba3808321/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black&color=2E97F7)](your-youtube-link)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=2E97F7)](mailto:your-email@example.com)
@@ -41,17 +41,19 @@
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I’m a **Computer Science student** and software developer focused on building **practical, scalable, real-world systems**.
+I'm **Masanga Kevin** — a UI/UX Designer, Front-End & Back-End Web Developer who transforms ideas into beautiful, functional digital products. I blend design aesthetics with full-stack engineering to build experiences people love.
 
-What makes me different is my ability to work across the full stack — from **UI design** to **backend architecture** down to **low-level programming in C & Assembly**.
+Based in **Kisii, Kenya**, I'm passionate about creating digital experiences that start with empathy and end with elegance. Whether I'm crafting seamless user journeys in Figma, building React frontends, or engineering Node.js REST APIs — I believe great software is invisible. It just works.
 
-- 🔭 Building production-style **School & Hospital Management Systems**
+- 🎯 **3+ Years** of professional design & development experience
+- 🚀 **40+ Projects** completed for **20+ Happy Clients**
+- 🔭 Currently building production-style **School & Hospital Management Systems**
 - 🌱 Learning **Cloud Architecture, DevOps & scalable backend design**
 - 👯 Open to collaborating on **serious real-world or open-source projects**
-- 💬 Ask me about **Node.js backends, system design, or UI/UX**
+- 💬 Ask me about **UI/UX design, Node.js backends, or system architecture**
 - ⚡ Fun fact: I design interfaces and write Assembly — rare combo 😄
 
-<br>
+**👉 Explore my complete portfolio:** [masangakevin.vercel.app](https://masangakevin.vercel.app)
 
 ---
 
@@ -62,22 +64,26 @@ What makes me different is my ability to work across the full stack — from **U
 <tr>
 <td align="center" width="220">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55"/>
-<br><b>Full-Stack Systems</b>
+<br><b>UI/UX Design</b>
+<br><small>Figma, Prototyping, Mobile-First</small>
 </td>
 
 <td align="center" width="220">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55"/>
-<br><b>Backend & Systems Programming</b>
+<br><b>Web Development</b>
+<br><small>React, TypeScript, Node.js</small>
 </td>
 
 <td align="center" width="220">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/>
-<br><b>API & Mobile Integration</b>
+<br><b>Backend Systems</b>
+<br><small>APIs, Databases, Architecture</small>
 </td>
 
 <td align="center" width="220">
 <img src="https://techstack-generator.vercel.app/figma-icon.svg" width="55"/>
-<br><b>UI/UX Engineering</b>
+<br><b>Design Strategy</b>
+<br><small>Research, Wireframing, Prototyping</small>
 </td>
 </tr>
 </table>
@@ -85,121 +91,114 @@ What makes me different is my ability to work across the full stack — from **U
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Technical Expertise**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Skills & Expertise**
+
+<div align="center">
+
+### Frontend & Design
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Low-Level & Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-%23FFD700.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 <div align="center">
 
 ```javascript
 const kevin = {
-    role: "Full-Stack Developer | Backend & Systems Focus",
-
-    frontend: ['React', 'Angular', 'HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
-    backend: ['Node.js', 'Express.js', 'Python', 'Django', 'Flask', 'PHP'],
-    mobile: ['React Native'],
+    role: "UI/UX Designer & Full-Stack Developer",
+    
+    design: ['UI/UX Design', 'Figma', 'Prototyping', 'Design Strategy', 'User Research'],
+    frontend: ['React', 'TypeScript', 'CSS/Animations', 'Mobile-First Design'],
+    backend: ['Node.js', 'Express.js', 'REST APIs', 'Python'],
+    database: ['MySQL', 'MongoDB', 'Supabase'],
     lowLevel: ['C', 'Assembly'],
-    database: ['MySQL', 'MongoDB', 'Firebase'],
-    cloud: ['Vercel', 'AWS (learning)', 'Google Cloud (learning)', 'Docker'],
-    design: ['Figma', 'Adobe XD', 'Adobe Creative Suite'],
-    tools: ['Git', 'Linux', 'Postman', 'pnpm', 'Power BI'],
-    architecture: [
-        'MVC',
-        'RESTful APIs',
-        'Clean Architecture',
-        'Separation of Concerns',
-        'Scalable Backend Design'
-    ]
+    tools: ['Git', 'Linux', 'Postman', 'Figma', 'Adobe XD'],
+    
+    philosophy: "I build experiences, not just interfaces — starting with empathy and ending with elegance."
 };
-```
 </div>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Featured Projects**
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Featured Projects
 <div align="center">
+🏥 HealthTrack Dashboard
+A comprehensive health monitoring dashboard with real-time vitals tracking and data visualization.
 
-<a href="https://github.com/masangakevin256/school-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=masangakevin256&repo=school-management-system&theme=github_dark&show_owner=true" />
-</a>
 
-<a href="https://github.com/masangakevin256/hospital-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=masangakevin256&repo=hospital-management-system&theme=github_dark&show_owner=true" />
-</a>
+https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github
 
-<a href="https://github.com/masangakevin256/location-based-services">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=masangakevin256&repo=location-based-services&theme=github_dark&show_owner=true" />
-</a>
+🛒 E-Commerce Platform
+Full-stack shopping platform with seamless checkout flow and admin analytics panel.
+
+
+https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github
+
+📱 Jali Connect App
+Mental health support mobile app connecting users with licensed counselors in real time.
+
+
+https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github
+
+🎨 Portfolio Design System
+A comprehensive design system with reusable components, tokens, and interaction patterns.
+
+
+https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github
+
+🔍 See all projects on my portfolio
 
 </div>
-
----
-
-## 📺 Latest YouTube Videos
+📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-Building a School Management System from Scratch  
-Understanding Pointers in C - Deep Dive  
-JWT Authentication Explained with Examples  
-Hospital Management System Architecture  
-Assembly Language for Beginners  
+Building a School Management System from Scratch
+
+Understanding Pointers in C - Deep Dive
+
+JWT Authentication Explained with Examples
+
+Hospital Management System Architecture
+
+UI/UX Design Principles for Developers
+
 <!-- YOUTUBE:END -->
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=masangakevin256&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masangakevin256&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-
-<br>
-
+📊 GitHub Stats
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=masangakevin256&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masangakevin256&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=masangakevin256&theme=github-dark-blue&hide_border=true&background=0D1117" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=masangakevin256&theme=onedark&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=masangakevin256&theme=onedark&no-frame=true&row=1&column=7" /></div>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=masangakevin256&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%"> </div>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Connect With Me
+<div align="center">
+https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&color=2E97F7
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=2E97F7
+https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117&color=2E97F7
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=2E97F7
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117&color=2E97F7
 
 </div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=masangakevin256&color=2E97F7&style=flat-square&label=PROFILE+VIEWS"/>
 
----
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Activity Graph**
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masangakevin256&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%">
-</div>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Connect With Me**
-
-<div align="center">
-
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&color=2E97F7  
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=2E97F7  
-https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117&color=2E97F7  
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=2E97F7  
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117&color=2E97F7  
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=masangakevin256&color=2E97F7&style=flat-square&label=PROFILE+VIEWS"/>
-
-<br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
-<br><br>
 
-<b>💡 “Building scalable systems from the ground up, one solution at a time.”</b>
 
-<br><br>
+<b>💡 “Crafting digital experiences that inspire — from pixels to databases.”</b>
 
-<img src="https://raw.githubusercontent.com/masangakevin256/masangakevin256/output/snake.svg" />
 
-</div>
+
+
+<img src="https://raw.githubusercontent.com/masangakevin256/masangakevin256/output/snake.svg" /></div> ```
