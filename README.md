@@ -133,72 +133,104 @@ const kevin = {
 </div>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Featured Projects
 <div align="center">
-🏥 HealthTrack Dashboard
-A comprehensive health monitoring dashboard with real-time vitals tracking and data visualization.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Featured Projects**
 
-
-https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github
-
-🛒 E-Commerce Platform
-Full-stack shopping platform with seamless checkout flow and admin analytics panel.
-
-
-https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github
-
-📱 Jali Connect App
-Mental health support mobile app connecting users with licensed counselors in real time.
-
-
-https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github
-
-🎨 Portfolio Design System
-A comprehensive design system with reusable components, tokens, and interaction patterns.
-
-
-https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github
-
-🔍 See all projects on my portfolio
-
-</div>
-📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-Building a School Management System from Scratch
-
-Understanding Pointers in C - Deep Dive
-
-JWT Authentication Explained with Examples
-
-Hospital Management System Architecture
-
-UI/UX Design Principles for Developers
-
-<!-- YOUTUBE:END -->
-📊 GitHub Stats
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=masangakevin256&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masangakevin256&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=masangakevin256&theme=github-dark-blue&hide_border=true&background=0D1117" />
-<img src="https://github-profile-trophy.vercel.app/?username=masangakevin256&theme=onedark&no-frame=true&row=1&column=7" /></div>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=masangakevin256&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%"> </div>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Connect With Me
 <div align="center">
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&color=2E97F7
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=2E97F7
-https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117&color=2E97F7
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=2E97F7
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117&color=2E97F7
+
+### 🏥 HealthTrack Dashboard
+*A comprehensive health monitoring dashboard with real-time vitals tracking and data visualization.*
+
+[![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/masangakevin256/healthtrack-dashboard)
+
+### 🛒 E-Commerce Platform
+*Full-stack shopping platform with seamless checkout flow and admin analytics panel.*
+
+[![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/masangakevin256/ecommerce-platform)
+
+### 📱 Jali Connect App
+*Mental health support mobile app connecting users with licensed counselors in real time.*
+
+[![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/masangakevin256/jali-connect)
+
+### 🎨 Portfolio Design System
+*A comprehensive design system with reusable components, tokens, and interaction patterns.*
+
+[![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/masangakevin256/design-system)
+
+**🔍 See all projects on my [portfolio](https://masangakevin.vercel.app)**
 
 </div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=masangakevin256&color=2E97F7&style=flat-square&label=PROFILE+VIEWS"/>
 
+---
 
+## 📺 **Latest YouTube Videos**
+
+<!-- YOUTUBE:START -->
+- [Building a School Management System from Scratch](https://youtube.com/watch?v=example1)
+- [Understanding Pointers in C - Deep Dive](https://youtube.com/watch?v=example2)
+- [JWT Authentication Explained with Examples](https://youtube.com/watch?v=example3)
+- [Hospital Management System Architecture](https://youtube.com/watch?v=example4)
+- [UI/UX Design Principles for Developers](https://youtube.com/watch?v=example5)
+<!-- YOUTUBE:END -->
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=masangakevin256&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masangakevin256&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+
+<br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=masangakevin256&theme=github-dark-blue&hide_border=true&background=0D1117" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=masangakevin256&theme=onedark&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Activity Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masangakevin256&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%">
+</div>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Connect With Me**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&color=2E97F7)](https://masangakevin.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=2E97F7)](https://www.linkedin.com/in/kevin-masanga-ba3808321/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117&color=2E97F7)](https://youtube.com/@yourchannel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=2E97F7)](mailto:your.email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117&color=2E97F7)](https://twitter.com/yourhandle)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=masangakevin256&color=2E97F7&style=flat-square&label=PROFILE+VIEWS"/>
+
+<br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
-
+<br><br>
 
 <b>💡 “Crafting digital experiences that inspire — from pixels to databases.”</b>
 
+<br><br>
 
+<img src="https://raw.githubusercontent.com/masangakevin256/masangakevin256/output/snake.svg" />
 
-
-<img src="https://raw.githubusercontent.com/masangakevin256/masangakevin256/output/snake.svg" /></div> ```
+</div>
